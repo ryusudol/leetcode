@@ -2,8 +2,8 @@ from collections import Counter
 class Solution:
     def maxPoints(self, points: List[List[int]]) -> int:
         len_of_points = len(points)
-        if len_of_points == 0 or len_of_points == 1:
-            return len_of_points
+        if len_of_points == 1:
+            return 1
         accs = {}
         for i in range(len_of_points - 1):
             for j in range(i + 1, len_of_points):
