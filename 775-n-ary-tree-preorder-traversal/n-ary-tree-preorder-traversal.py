@@ -14,5 +14,4 @@ class Solution:
         visited.append(root.val)
         for v in root.children:
             visited += self.preorder(v)
-        
         return visited
