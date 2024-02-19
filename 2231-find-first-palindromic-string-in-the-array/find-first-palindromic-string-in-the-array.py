@@ -1,7 +1,6 @@
 class Solution:
     def firstPalindrome(self, words: List[str]) -> str:
         for word in words:
-            stack = []
             left, right = 0, len(word) - 1
             palindrome = True
             while left <= right:
