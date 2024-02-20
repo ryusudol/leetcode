@@ -13,12 +13,3 @@ class Solution:
         root.left = right
         root.right = left
         return root
-
-        # def invert(root):
-        #     if not root:
-        #         return
-        #     root.left, root.right = root.right, root.left
-        #     invert(root.left)
-        #     invert(root.right)
-        # invert(root)
-        # return root
