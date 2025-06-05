@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ryusudol/leetcode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/ryusudol/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ryusudol/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ryusudol/leetcode/tree/master/0392-is-subsequence) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ryusudol/leetcode/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/ryusudol/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/ryusudol/leetcode/tree/master/0605-can-place-flowers) |
 | [1046-max-consecutive-ones-iii](https://github.com/ryusudol/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ryusudol/leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/ryusudol/leetcode/tree/master/0605-can-place-flowers) |
 ## Sliding Window
 |  |
