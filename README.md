@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ryusudol/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/ryusudol/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ryusudol/leetcode/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/ryusudol/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ryusudol/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/ryusudol/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/ryusudol/leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
