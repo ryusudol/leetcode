@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ryusudol/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ryusudol/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ryusudol/leetcode/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/ryusudol/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/ryusudol/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ryusudol/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/ryusudol/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ryusudol/leetcode/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/ryusudol/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ryusudol/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ryusudol/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
