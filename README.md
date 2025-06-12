@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ryusudol/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ryusudol/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ryusudol/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ryusudol/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/ryusudol/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/ryusudol/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ryusudol/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/ryusudol/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/ryusudol/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ryusudol/leetcode/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ryusudol/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/ryusudol/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/ryusudol/leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ryusudol/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
