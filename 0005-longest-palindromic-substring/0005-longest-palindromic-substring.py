@@ -23,7 +23,7 @@ class Solution:
         #         right -= 1
         # return longest_palindrome if max_len != 0 else s[0]
 
-        ##### Improved approach #####
+        ##### Second approach #####
         max_len = 0
         longest_palindrome = s[0]
         for i in range(len(s)):
