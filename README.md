@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ryusudol/leetcode/tree/master/0011-container-with-most-water) |
+| [0128-longest-consecutive-sequence](https://github.com/ryusudol/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ryusudol/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ryusudol/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/ryusudol/leetcode/tree/master/0198-house-robber) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ryusudol/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/ryusudol/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/ryusudol/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/ryusudol/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ryusudol/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ryusudol/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/ryusudol/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ryusudol/leetcode/tree/master/0547-number-of-provinces) |
 ## Trie
