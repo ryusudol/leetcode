@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ryusudol/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ryusudol/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ryusudol/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/ryusudol/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ryusudol/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/ryusudol/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ryusudol/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ryusudol/leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/ryusudol/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/ryusudol/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ryusudol/leetcode/tree/master/0739-daily-temperatures) |
