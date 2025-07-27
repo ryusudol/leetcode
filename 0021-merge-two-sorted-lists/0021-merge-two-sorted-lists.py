@@ -8,32 +8,20 @@ class Solution:
         if not list1 or not list2:
             return list1 if list1 else list2
 
-        cur1, cur2 = list1, list2
-        if cur1.val <= cur2.val:
-            head = cur1
-            cur1 = cur1.next
-        else:
-            head = cur2
-            cur2 = cur2.next
-
+        head = ListNode()
         cur = head
-        while cur1 and cur2:
-            if cur1.val <= cur2.val:
-                cur.next = cur1
-                cur1 = cur1.next
+        while list1 and list2:
+            if list1.val <= list2.val:
+                cur.next = list1
+                list1 = list1.next
             else:
-                cur.next = cur2
-                cur2 = cur2.next
+                cur.next = list2
+                list2 = list2.next
             cur = cur.next
         
-        while cur1:
-            cur.next = cur1
-            cur1 = cur1.next
-            cur = cur.next
-
-        while cur2:
-            cur.next = cur2
-            cur2 = cur2.next
-            cur = cur.next
+        if list1:
+            cur.next = list1
+        if list2:
+            cur.next = list2
         
-        return head
+        return head.next
