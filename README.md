@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ryusudol/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ryusudol/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/ryusudol/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/ryusudol/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ryusudol/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ryusudol/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ryusudol/leetcode/tree/master/0394-decode-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ryusudol/leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/ryusudol/leetcode/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/ryusudol/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/ryusudol/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ryusudol/leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/ryusudol/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ryusudol/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ryusudol/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/ryusudol/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ryusudol/leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/ryusudol/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ryusudol/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
