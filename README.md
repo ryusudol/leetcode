@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ryusudol/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ryusudol/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/ryusudol/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ryusudol/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ryusudol/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/ryusudol/leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/ryusudol/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ryusudol/leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/ryusudol/leetcode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ryusudol/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/ryusudol/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ryusudol/leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ryusudol/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ryusudol/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ryusudol/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ryusudol/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ryusudol/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ryusudol/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ryusudol/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/ryusudol/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ryusudol/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ryusudol/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ryusudol/leetcode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/ryusudol/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ryusudol/leetcode/tree/master/0547-number-of-provinces) |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ryusudol/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ryusudol/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/ryusudol/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ryusudol/leetcode/tree/master/0547-number-of-provinces) |
 ## Trie
