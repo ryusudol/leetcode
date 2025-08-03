@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ryusudol/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ryusudol/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ryusudol/leetcode/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/ryusudol/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ryusudol/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ryusudol/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/ryusudol/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ryusudol/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ryusudol/leetcode/tree/master/0011-container-with-most-water) |
+| [0079-word-search](https://github.com/ryusudol/leetcode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/ryusudol/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ryusudol/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ryusudol/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ryusudol/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ryusudol/leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/ryusudol/leetcode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ryusudol/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ryusudol/leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/ryusudol/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ryusudol/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/ryusudol/leetcode/tree/master/0133-clone-graph) |
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ryusudol/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/ryusudol/leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/ryusudol/leetcode/tree/master/0216-combination-sum-iii) |
 ## Union Find
 |  |
