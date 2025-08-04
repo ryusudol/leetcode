@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ryusudol/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ryusudol/leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/ryusudol/leetcode/tree/master/0399-evaluate-division) |
+| [0424-longest-repeating-character-replacement](https://github.com/ryusudol/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/ryusudol/leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/ryusudol/leetcode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/ryusudol/leetcode/tree/master/0649-dota2-senate) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ryusudol/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ryusudol/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ryusudol/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/ryusudol/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ryusudol/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ryusudol/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ryusudol/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ryusudol/leetcode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/ryusudol/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1319-unique-number-of-occurrences](https://github.com/ryusudol/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ryusudol/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ryusudol/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
